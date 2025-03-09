@@ -20,7 +20,7 @@ sustainability-tracker/
 ### 1️⃣ Clone the Repository
 First, open a terminal and navigate to the folder where you want to store the project. Then run:
 ```sh
-git clone https://github.com/your-username/Sustainability_Tracker.git
+git clone https://github.com/Skandesh24/Sustainability_Tracker.git
 cd Sustainability_Tracker
 ```
 
