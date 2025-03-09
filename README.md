@@ -8,8 +8,8 @@ Sustainability Tracker is a full-stack web application designed to track and man
 ## 📂 Project Structure
 ```
 sustainability-tracker/
-│── backend/        # Django backend
-│── frontend/       # React frontend
+│── sustainability_backend/        # Django backend
+│── sustainability_frontend/       # React frontend
 │── README.md       # Project documentation
 ```
 
@@ -20,8 +20,8 @@ sustainability-tracker/
 ### 1️⃣ Clone the Repository
 First, open a terminal and navigate to the folder where you want to store the project. Then run:
 ```sh
-git clone https://github.com/your-username/sustainability-tracker.git
-cd sustainability-tracker
+git clone https://github.com/your-username/Sustainability_Tracker.git
+cd Sustainability_Tracker
 ```
 
 ---
