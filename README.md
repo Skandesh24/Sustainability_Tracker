@@ -1,7 +1,7 @@
 # 🌱 Sustainability Tracker - Project Submission
 
 ## 📌 Project Overview
-Sustainability Tracker is a full-stack web application designed to track and manage sustainability actions. This project is submitted as part of the coursework/assignment.
+Sustainability Tracker is a full-stack web application designed to track and manage sustainability actions. This project is submitted as part of the assignment.
 
 ---
 
